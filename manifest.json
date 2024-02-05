@@ -18,8 +18,8 @@
       "frame": [185, 17, 16],
       "toolbar": [121, 13, 13],
       "tab_text": [255, 255, 255],
-      "tab_background_text":  [0, 0, 0],
-      "ntp_background": [0, 0, 0],
+      "tab_background_text":  [255, 255, 255],
+      "ntp_background": [255, 255, 255],
       "button_background": [121, 13, 13],
       "bookmark_text": [255, 255, 255],
       "bookmark_background": [255, 255, 0],
@@ -29,7 +29,7 @@
   "properties": {
     "ntp_background_alignment": "center",
     "ntp_background_repeat": "no-repeat",
-    "ntp_logo_alternate": 1
+    "ntp_logo_alternate": 0
   },
   "tints": {
     "buttons": [0.5, 0.5, 0.5],
